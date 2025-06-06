@@ -1,3 +1,6 @@
 .envrc
 .idea
 vendor
+composerInstall.log
+server.log
+migrations.log

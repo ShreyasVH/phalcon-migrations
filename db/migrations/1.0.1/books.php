@@ -19,7 +19,7 @@ class BooksMigration_101 extends Migration
      */
     public function morph(): void
     {
-        $this->morphTable('books_new', [
+        $this->morphTable('books', [
             'columns' => [
                 new Column(
                     'id',

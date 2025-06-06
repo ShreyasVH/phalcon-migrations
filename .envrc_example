@@ -1,0 +1,15 @@
+# php 8.2.14 path
+export PATH=
+
+export PORT=
+
+export MYSQL_IP=
+export MYSQL_PORT=
+export MYSQL_DB=
+export MYSQL_USER=
+export MYSQL_PASSWORD=
+
+export MYSQL_VERSION=
+
+# php 9.0.1 path
+export PATH=
