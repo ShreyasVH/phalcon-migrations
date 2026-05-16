@@ -11,5 +11,5 @@ export MYSQL_PASSWORD=
 
 export MYSQL_VERSION=
 
-# php 8.5.6 path
+# mysql path
 export PATH=
